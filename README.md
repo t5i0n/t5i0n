@@ -15,8 +15,3 @@ I enjoy building clean, responsive websites and exploring new tools.
 ### 💻 Skills
 - HTML, CSS, JavaScript
 - Basic UI/UX design
-
----
-
-### 📫 Contact
-- tsiontesfuu@gmail.com
