@@ -19,4 +19,4 @@ I enjoy building clean, responsive websites and exploring new tools.
 ---
 
 ### 📫 Contact
-- [Email]: tsiontesfuu@gmail.com
+- tsiontesfuu@gmail.com
