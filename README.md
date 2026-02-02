@@ -14,4 +14,7 @@ I enjoy building clean, responsive websites and exploring new tools.
 
 ### 💻 Skills
 - HTML, CSS, JavaScript
+- Git and Github
 - Basic UI/UX design
+- Basic Node.js and React
+  
