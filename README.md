@@ -6,9 +6,10 @@ I enjoy building clean, responsive websites and exploring new tools.
 ---
 
 ### 🌱 What I'm working on
-- CashFlow-Logger
-- Learning Figma for wireframes and prototyping
+- Mindful Learning Companion
+- - Learning PHP and Python 
 - Studying Front‑end Technologies
+
 
 ---
 
@@ -16,5 +17,4 @@ I enjoy building clean, responsive websites and exploring new tools.
 - HTML, CSS, JavaScript
 - Git and Github
 - Basic UI/UX design
-- Basic Node.js and React
   
