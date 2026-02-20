@@ -6,9 +6,10 @@ I enjoy building clean, responsive websites and exploring new tools.
 ---
 
 ### 🌱 What I'm working on
-- Mindful Learning Companion
+- LMS (club project)
 - Learning PHP and Python 
 - Studying Front‑end Technologies
+- Discovering Back-end stacks
 
 
 ---
