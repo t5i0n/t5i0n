@@ -19,5 +19,5 @@ I enjoy building clean, responsive websites and exploring new tools.
 - Git and Github
 - Basic UI/UX design
 
-  https://www.figma.com/make/dNBgmxn7UWVOTKtiupITvr/LMS?t=xTBxHMV5sXCzBvnB-1
+  
   
