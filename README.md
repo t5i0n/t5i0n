@@ -2,8 +2,6 @@
 
 I'm tsion, Information Systems student passionate about **Web Development** and **UI/UX Design**,building clean, responsive websites while continuously learning modern technologies and creating real-world projects.
 
----
-
 ### 💻 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,mysql,git,github&perline=5" alt="Skills" />
 
