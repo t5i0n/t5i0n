@@ -8,5 +8,5 @@ I'm tsion, Information Systems student passionate about **Web Development** and 
 
 ## 📫 Connect With Me
 
-LinkedIn: [Tsion Tesfaye](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)
-Email: [tsiontesfuu@gmail.com](mailto:tsiontesfuu@gmail.com)
+- LinkedIn: [Tsion Tesfaye](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)
+- Email: [tsiontesfuu@gmail.com](mailto:tsiontesfuu@gmail.com)
