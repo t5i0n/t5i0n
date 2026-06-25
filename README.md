@@ -6,9 +6,7 @@ I enjoy building clean, responsive websites and exploring new tools.
 ---
 
 ### 💻 Skills
-- HTML, CSS, JavaScript
-- Git and Github
-- Basic UI/UX design
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,mysql,git,github&perline=5" alt="Skills" />
 
   
   
