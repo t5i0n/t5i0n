@@ -8,8 +8,8 @@ Currently, I am focused on: Building responsive and user-friendly websites, Impr
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap,cpp,php,python,mysql,git,github&perline=6" alt="Skills" />
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=t5i0n&theme=dark)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=t5i0n&theme=dark)
 
 ## 📫 Connect With Me
 
