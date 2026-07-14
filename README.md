@@ -10,7 +10,6 @@ I'm tsion, Information Systems student passionate about **Web Development** and 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t5i0n&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=t5i0n&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=t5i0n&theme=tokyo-night)
 
 ## 📫 Connect With Me
 
