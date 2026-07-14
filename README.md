@@ -1,6 +1,6 @@
-# Heyy 🙋🏻‍♀️ 
+# Heyy, I'm Tsion 👋🏻
 
-I'm tsion, Information Systems student passionate about **Web Development** and **UI/UX Design**,building clean, responsive websites while continuously learning modern technologies and creating real-world projects.
+Information Systems student passionate about **Web Development** and **UI/UX Design**,building clean, responsive websites while continuously learning modern technologies and creating real-world projects.
 
 
 ## 💻 Skills
