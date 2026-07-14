@@ -8,7 +8,7 @@ I'm tsion, Information Systems student passionate about **Web Development** and 
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=t5i0n&theme=github_dark)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
 
 ## 📫 Connect With Me
 
