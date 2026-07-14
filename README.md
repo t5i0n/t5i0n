@@ -1,7 +1,8 @@
 # Heyy, I'm Tsion 👋🏻
 
-Information Systems student passionate about **Web Development** and **UI/UX Design**,building clean, responsive websites while continuously learning modern technologies and creating real-world projects.
+Information Systems student passionate about building modern web applications, creating clean and responsive user experiences, and solving real-world problems through technology. 
 
+Currently, I am focused on: Building responsive and user-friendly websites, Improving my Web Development and UI/UX Design skills, Learning modern technologies and Creating real-world projects to strengthen my technical skills
 
 ## 💻 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap,cpp,php,python,mysql,git,github&perline=6" alt="Skills" />
@@ -14,3 +15,15 @@ Information Systems student passionate about **Web Development** and **UI/UX Des
 
 - LinkedIn: [Tsion](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)
 - Email: [tsiontesfuu@gmail.com](mailto:tsiontesfuu@gmail.com)
+
+<p align="center">
+  <a href="href="(https://www.linkedin.com/in/tsion-tesfaye-b0248a391/) 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tsiontesfuu@gmail.com)">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=t5i0n&color=blue&style=flat)
