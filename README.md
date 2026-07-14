@@ -16,4 +16,4 @@ Currently, I am focused on: Building responsive and user-friendly websites, Impr
 - LinkedIn: [Tsion](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)
 - Email: [tsiontesfuu@gmail.com](mailto:tsiontesfuu@gmail.com)
 
-![Vues](https://komarev.com/ghpvc/?username=t5i0n&color=blue&style=flat)
+![Vues](https://komarev.com/ghpvc/?username=t5i0n&label=Vues&color=blue&style=flat)
