@@ -5,7 +5,7 @@ Information Systems student and Junior Web Developer passionate about building m
 Currently focused on improving my Frontend Development skills, exploring modern web technologies, and building projects that strengthen my technical abilities.
 
 ## 💻 Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap,cpp,php,python,mysql,git,github&perline=6" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,cpp,php,python,mysql,git,github&perline=6" alt="Skills" />
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
