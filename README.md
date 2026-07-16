@@ -13,7 +13,7 @@ Currently, I am focused on: Building responsive and user-friendly websites, Impr
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)  
-
+[![Email](https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=white)](mailto:tsiontesfuu@gmail.com)
 - Email: [tsiontesfuu@gmail.com](mailto:tsiontesfuu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tsiixn?igsh=ajVkc3AzbjEzbzY4&utm_source=qr)
 
