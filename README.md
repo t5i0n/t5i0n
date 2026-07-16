@@ -1,8 +1,8 @@
 # Heyy, I'm tsion 👋🏻
 
-Information Systems student passionate about building modern web applications, creating clean and responsive user experiences, and solving real-world problems through technology. 
+Information Systems student and Junior Web Developer passionate about building modern, responsive web applications and creating clean, user-friendly digital experiences. I enjoy turning ideas into functional solutions and solving real-world problems through technology.
 
-Currently, I am focused on: Building responsive and user-friendly websites, Improving my Web Development and UI/UX Design skills, Learning modern technologies and Creating real-world projects to strengthen my technical skills
+Currently focused on improving my Frontend Development skills, exploring modern web technologies, and building projects that strengthen my technical abilities.
 
 ## 💻 Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap,cpp,php,python,mysql,git,github&perline=6" alt="Skills" />
