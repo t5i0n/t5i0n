@@ -1,4 +1,4 @@
-# Heyy, I'm Tsion 👋🏻
+# Heyy, I'm tsion 👋🏻
 
 Information Systems student passionate about building modern web applications, creating clean and responsive user experiences, and solving real-world problems through technology. 
 
@@ -12,7 +12,7 @@ Currently, I am focused on: Building responsive and user-friendly websites, Impr
 ![GitHub Streak](https://streak-stats.demolab.com?user=t5i0n&theme=dark)
 
 ## 📫 Connect With Me
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)  
 - LinkedIn: [Tsion](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)
 - Email: [tsiontesfuu@gmail.com](mailto:tsiontesfuu@gmail.com)
 
