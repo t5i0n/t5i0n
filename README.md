@@ -4,7 +4,7 @@ Information Systems student and Junior Web Developer passionate about building m
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,vite,nodejs,express,cpp,php,python,mysql,postgres,git,github&perline=5" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,nodejs,cpp,php,python,mysql,postgres,git,github&perline=5" alt="Skills" />
 
 ## Tech Stack
 
