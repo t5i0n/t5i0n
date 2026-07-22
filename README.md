@@ -6,6 +6,8 @@ Information Systems student and Junior Web Developer passionate about building m
 
 <img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,nodejs,cpp,php,python,mysql,postgres,git,github&perline=6" alt="Skills" />
 
+---
+
 ## Tech Stack
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
@@ -15,5 +17,5 @@ Information Systems student and Junior Web Developer passionate about building m
 [![Email](https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=white)](mailto:tsiontesfuu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tsiixn?igsh=ajVkc3AzbjEzbzY4&utm_source=qr)
 
----
+##
 ![Vues](https://komarev.com/ghpvc/?username=t5i0n&label=Vues&color=000000&style=flat)
