@@ -4,6 +4,7 @@ Information Systems student and Junior Web Developer passionate about building m
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,cpp,php,python,mysql,git,github&perline=5" alt="Skills" />
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
