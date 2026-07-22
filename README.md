@@ -3,7 +3,8 @@
 Information Systems student and Junior Web Developer passionate about building modern, responsive web applications and creating clean, user-friendly digital experiences. I enjoy turning ideas into functional solutions and solving real-world problems through technology. Currently focused on improving my Frontend Development skills, exploring modern web technologies, and building projects that strengthen my technical abilities.
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,cpp,php,python,mysql,git,github&perline=5" alt="Skills" /> 
+
+<img src="https://skillicons.dev/icons?i=js,react,typescript,tailwind,vite,nodejs,express,cpp,php,python,mysql,postgres,git,github&perline=5" alt="Skills" />
 
 ## Tech Stack
 
