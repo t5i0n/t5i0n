@@ -7,11 +7,6 @@ Information Systems student and Junior Web Developer passionate about building m
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t5i0n&layout=compact&theme=dark)
 
-
-
-## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=t5i0n&theme=dark)
-
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsion-tesfaye-b0248a391/)
 [![Email](https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=white)](mailto:tsiontesfuu@gmail.com)
